@@ -12,7 +12,7 @@ module Aquatone
         }
       }
 
-      DEFAULT_TIMEOUT = 30.freeze
+      DEFAULT_TIMEOUT = 600.freeze
 
       def run
         response = nil
